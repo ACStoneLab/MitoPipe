@@ -27,4 +27,4 @@ This pipeline pipeline is composed of 16 sub-steps. It produces a individual rep
 ![Dag for Mitopipe](dag.png)
 
 
-
+The authors acknowledge Research Computing at Arizona State University for providing high-performance computing resources that have contributed to the research results.
