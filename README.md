@@ -1,7 +1,7 @@
 # MitoPipe
 Snakemake computational pipeline for whole mitochondrial genome assembly. 
 
-*Emery MV, Ghafoor S, Bolhofner K, Winingear S, Oldt R, Kanthaswamy S, Buikstra J, Fulginiti L, Stone AC. 2021. Whole Mitochondrial Genome Assembly from Highly Incinerated Forensic Bones and Teeth. Forensic Science International: Genetics. In preparation*
+*Emery MV, Bolhofner K Ghafoor S, Winingear S, Buikstra J, Fulginiti L, Stone AC. 2021. Whole Mitochondrial Genomes Assembled from Thermally Altered Forensic Bones and Teeth. In review. Forensic Science International: Genetics.*
 
 ## Pipeline information
 This pipeline pipeline is composed of 16 sub-steps. It produces a individual report for each sample after each step  as it moves through the pipeline as well as a master report which is an aggregation of all individual reports and adds a table to a final MultiQC report. The 16 steps are
